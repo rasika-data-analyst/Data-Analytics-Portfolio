@@ -15,7 +15,14 @@ I have 5 years of experience as a SQL DBA in the Healthcare domain and I'm curre
 - Database Administration
 
 ---
+## 📚 Currently Learning
 
+- Advanced SQL
+- Python for Data Analysis
+- Power BI
+- Excel for Analytics
+- Statistics
+- 
 ## 📂 Portfolio Projects
 
 ### SQL Projects
@@ -36,6 +43,8 @@ I have 5 years of experience as a SQL DBA in the Healthcare domain and I'm curre
 ## 📜 Certifications
 
 - Microsoft Certified Professional
+- AZ900
+- DP300
 
 ---
 
