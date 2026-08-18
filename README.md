@@ -2,7 +2,7 @@
 
 ## SQL DBA | Aspiring Data Analyst
 
-I have 5 years of experience as a SQL DBA in the Healthcare domain and I'm currently transitioning into Data Analytics.
+I have 5 years of experience as a SQL DBA i and I'm currently transitioning into Data Analytics.
 
 ### 🛠 Skills
 
