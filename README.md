@@ -27,20 +27,9 @@ Welcome to my portfolio! 🚀
 - 
 ## 📂 Portfolio Projects
 
-### SQL Projects
-- Healthcare SQL Analysis (Coming Soon)
-- Banking SQL Analysis (Coming Soon)
-- E-commerce SQL Analysis (Coming Soon)
-
-### Python Projects
-- Netflix Data Analysis (Coming Soon)
-- Sales Analysis (Coming Soon)
-
-### Power BI
-- Sales Dashboard (Coming Soon)
-- HR Dashboard (Coming Soon)
-
----
+### Projects
+- Healthcare SQL Analysis 
+- Banking SQL Analysis
 
 ## 📜 Certifications
 
