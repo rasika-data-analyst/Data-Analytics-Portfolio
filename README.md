@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Rasika
 
-## SQL DBA | Aspiring Data Analyst
+## SQL DBA | Data Analyst
 
-I have 5 years of experience as a SQL DBA i and I'm currently transitioning into Data Analytics.
+I am a SQL DBA and Data Analyst with 6 years of experience in database management, SQL query optimization, and data analysis. I work with SQL, Python, Power BI, and Excel to analyze data, uncover meaningful business insights, and support data-driven decision-making.
+
+Welcome to my portfolio! 🚀
 
 ### 🛠 Skills
 
@@ -48,8 +50,8 @@ I have 5 years of experience as a SQL DBA i and I'm currently transitioning into
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Professional Focus
 
-To become a Data Analyst by leveraging my SQL DBA experience with Python, SQL, Power BI, and Excel.
+Applying my expertise in SQL, database management, and query optimization to analyze complex datasets, identify business trends, track key performance indicators (KPIs), and develop interactive Power BI dashboards using Python, SQL, and Excel to support data-driven business decisions.
 
-Thanks for visiting my portfolio!
+Thanks for visiting my portfolio! 🚀
