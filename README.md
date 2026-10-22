@@ -28,7 +28,7 @@ Welcome to my portfolio! 🚀
 ## 📂 Portfolio Projects
 
 ### Projects
-- Healthcare SQL Analysis 
+- Hospital management Analysis 
 - Banking SQL Analysis
 
 ## 📜 Certifications
