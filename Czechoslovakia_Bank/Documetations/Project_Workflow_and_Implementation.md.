@@ -1,0 +1,130 @@
+# Czechoslovakia Bank Analysis — Project Workflow and Implementation
+
+## 1. Project Overview
+
+The Czechoslovakia Bank Analysis project focuses on exploring banking data to understand customer demographics, account activity, transactions, credit cards, loans, and banking performance.
+
+The project combines SQL-based database preparation, data cleaning, and Power BI dashboard reporting to support business analysis and management decision-making.
+
+## 2. Business Objectives
+
+The project was designed to investigate the following areas:
+
+- Customer demographic distribution across districts.
+- Banking performance and trends over time.
+- Account types and usage patterns.
+- Credit card usage and profitability.
+- Major expenses and potential cost-reduction opportunities.
+- Loan portfolio characteristics and customer segments.
+- Customer service improvement opportunities.
+- Potential new banking products and services.
+
+## 3. Dataset Understanding
+
+The source documentation describes eight core banking tables:
+
+1. Account
+2. Card
+3. Client
+4. Disposition
+5. District
+6. Loan
+7. Order
+8. Transactions
+
+These tables contain customer, account, district, card, loan, order, and transaction information.
+
+## 4. Database Preparation Using SQL
+
+The SQL script includes the following implementation work:
+
+- Created the `BANK` database.
+- Defined tables for district, account, order, loan, transactions, client, disposition, and card.
+- Specified column data types.
+- Defined primary keys for several tables.
+- Established foreign key relationships between related tables.
+- Configured local data loading and included a command to import district data.
+
+The available SQL script documents these database setup tasks. Additional query scripts and validation results can be documented separately as they are verified.
+
+## 5. Data Cleaning and Transformation
+
+The data manipulation document identifies the following tasks:
+
+### Account Data
+- Convert encoded account dates into a standard date format.
+- Replace coded account-frequency values with meaningful labels.
+- Create a card-assignment category based on account issuance frequency.
+
+### Card Data
+- Standardize card type values.
+- Convert encoded card issue dates into date format.
+
+### Client Data
+- Derive birth dates from the encoded birth-number field.
+- Create a gender column using the documented encoding rules.
+
+### District Data
+- Rename coded columns using meaningful business names.
+- Remove the specified unnecessary attribute.
+
+### Loan Data
+- Convert encoded loan dates into date format.
+- Replace loan status codes with descriptive labels.
+
+### Transaction Data
+- Transform transaction years according to the project instructions.
+- Sort transaction counts in descending order as specified.
+- Populate missing bank labels for selected years.
+
+These activities are documented as data-preparation requirements; their completion should be confirmed against the final cleaned dataset.
+
+## 6. Power BI Dashboard
+
+The project includes four dashboard sections:
+
+### Bank Performance
+Provides a visual overview of banking performance and financial or operational trends.
+
+### Customer Demographics
+Presents customer demographic and geographical information.
+
+### Loans
+Focuses on loan-related metrics and portfolio analysis.
+
+### Products
+Presents product-related metrics and visualizations.
+
+Dashboard screenshots are maintained separately to demonstrate the report design and analytical presentation.
+
+## 7. Tools and Technologies
+
+- **SQL / MySQL:** Database creation, table definitions, relationships, and data preparation.
+- **Microsoft Power BI:** Dashboard development and data visualization.
+- **Excel and data-cleaning tools:** Referenced in the transformation instructions for preparing banking data.
+
+## 8. Expected Business Value
+
+The project aims to help management:
+
+- Understand customer distribution and banking activity.
+- Monitor financial and operational trends.
+- Examine loan and product portfolios.
+- Identify areas for further investigation into expenses and risk.
+- Explore opportunities to improve customer service.
+- Make more informed decisions using data analysis.
+
+## 9. Project Deliverables
+
+- Business problem statement.
+- Data manipulation and cleaning documentation.
+- SQL database creation and loading script.
+- Power BI dashboard screenshots.
+- Project README and supporting documentation.
+
+## 10. Current Documentation Status
+
+This document summarizes the project scope and implementation activities described in the available source files.
+
+Validated analytical findings, final KPI values, SQL business-query results, and quantified management recommendations should be added after reviewing the completed analysis and dashboard.
+
