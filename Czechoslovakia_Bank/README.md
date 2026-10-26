@@ -105,18 +105,6 @@ The analysis is intended to help management:
 - Discover opportunities for customer retention and product development.
 - Use data to support business planning and decision-making.
 
-These are project objectives, not confirmed findings. Specific recommendations should be based on validated query results and dashboard metrics.
-
-```
-
-The folder structure can be adjusted to match the existing portfolio repository. The Power BI report file may be maintained separately if it exceeds GitHub's normal browser-upload limit.
-
-## 11. Data Source
-
-Czechoslovakia Financial Dataset — Real Anonymized Transactions
-
-Source: https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions
-
 The project problem statement documents the original data source and currency conversion references.
 
 ## 12. Project Status
