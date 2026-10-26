@@ -1,0 +1,25 @@
+# Banking Dashboard Screenshots
+
+## Overview
+This folder contains screenshots of the Czechoslovakia Bank Power BI dashboard, presenting banking performance, customer demographics, loan analysis, and product insights.
+
+## Dashboard Pages
+
+### 1. Bank Performance
+Provides an overview of banking performance through key metrics and visualizations to support monitoring of financial and operational trends.
+
+### 2. Customer Demographics
+Presents customer demographic information and geographical distribution to help understand the bank's customer base.
+
+### 3. Loans Analysis
+Highlights loan-related metrics and visualizations to support analysis of the bank's loan portfolio.
+
+### 4. Products Analysis
+Presents product-related metrics and visualizations to help explore banking product performance.
+
+## Tools Used
+- Microsoft Power BI
+- SQL
+
+## Purpose
+These dashboard screenshots demonstrate how banking data can be presented through interactive visualizations to support business analysis and management decision-making.
